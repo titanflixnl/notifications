@@ -1,3 +1,4 @@
-4 
+5
 ||| 
-ewa er is nieuwe build wollah!
+Er is een nieuwe update beschikbaar.
+Ga naar rechts in het hoofdmenu en druk UPDATE. vervolgens klikt u op INSTALL-UPDATE om de update te installeren.
