@@ -1,8 +1,8 @@
-7
+8
 ||| 
 [COLOR red]Er is een nieuwe update beschikbaar.
 Ga naar rechts in het hoofdmenu en druk UPDATE. vervolgens klikt u op INSTALL-UPDATE om de update te installeren.[/COLOR]
 
-[B]Update 1.01   05-12-2016[/B]
-- Achtergrond Titanflix NL Fixed
+[B]Update 1.02   02-01-2017[/B]
 - Opensubtitles Login fixed
+- Nieuwe Opensubtitles plugin voor ondertiteling
