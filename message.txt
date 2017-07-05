@@ -1,10 +1,12 @@
-9
+11
 ||| 
 [COLOR red]Er is een nieuwe update beschikbaar.
 Ga naar rechts in het hoofdmenu en druk UPDATE. vervolgens klikt u op INSTALL-UPDATE om de update te installeren.[/COLOR]
 
 [COLOR yellow]Voor Real-Debrid gebruikers. Vergeet niet opnieuw te registreren na update[/COLOR]
 
-[B]Update 1.03   09-02-2017/B]
-- HEVC filter toegevoegd (geen stotterend beeld)
-- Nieuwe Opensubtitles plugin voor ondertiteling
+[B]Update 1.03a   05-07-2017/B]
+- Update Exodus
+- Exodus HEVC filter
+- Nieuwe Home Look
+- Accounts Home widget voor real-debrid
